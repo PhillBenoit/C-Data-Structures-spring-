@@ -1,0 +1,11 @@
+﻿  distinctRepresentatives.cpp
+c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(125): error C2039: 'printTree': is not a member of 'LocalTree'
+  c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(4): note: see declaration of 'LocalTree'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(126): error C2039: 'printTree': is not a member of 'LocalTree'
+  c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(4): note: see declaration of 'LocalTree'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(86): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(97): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 8 - graphs\269 - homework 8 - graphs\distinctrepresentatives.cpp(217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'

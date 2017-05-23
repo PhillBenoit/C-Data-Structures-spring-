@@ -1,0 +1,17 @@
+﻿  Maze.cpp
+c:\users\user\documents\visual studio 2015\projects\269 - homework 6 - recursion\269 - homework 6 - recursion\maze.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 6 - recursion\269 - homework 6 - recursion\maze.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\269 - homework 6 - recursion\269 - homework 6 - recursion\maze.cpp(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  Compiling...
+  269 - Homework 6 - Recursion.cpp
+c:\users\user\documents\visual studio 2015\projects\269 - homework 6 - recursion\269 - homework 6 - recursion\269 - homework 6 - recursion.cpp(10): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: see declaration of 'setbuf'
+  Generating Code...
+  Compiling...
+  Ex5.cpp
+  Generating Code...
+  269 - Homework 6 - Recursion.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\269 - Homework 6 - Recursion\Debug\269 - Homework 6 - Recursion.exe
+  269 - Homework 6 - Recursion.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\269 - Homework 6 - Recursion\Debug\269 - Homework 6 - Recursion.pdb (Full PDB)

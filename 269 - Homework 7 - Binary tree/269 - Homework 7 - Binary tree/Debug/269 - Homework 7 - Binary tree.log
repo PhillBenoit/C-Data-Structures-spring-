@@ -1,0 +1,9 @@
+﻿  269 - Homework 7 - Binary tree.cpp
+c:\users\user\documents\visual studio 2015\projects\269 - homework 7 - binary tree\269 - homework 7 - binary tree\269 - homework 7 - binary tree.cpp(33): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: see declaration of 'setbuf'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 7 - binary tree\269 - homework 7 - binary tree\269 - homework 7 - binary tree.cpp(47): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 7 - binary tree\269 - homework 7 - binary tree\269 - homework 7 - binary tree.cpp(58): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 7 - binary tree\269 - homework 7 - binary tree\269 - homework 7 - binary tree.cpp(66): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\user\documents\visual studio 2015\projects\269 - homework 7 - binary tree\269 - homework 7 - binary tree\269 - homework 7 - binary tree.cpp(74): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  269 - Homework 7 - Binary tree.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\269 - Homework 7 - Binary tree\Debug\269 - Homework 7 - Binary tree.exe
+  269 - Homework 7 - Binary tree.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\269 - Homework 7 - Binary tree\Debug\269 - Homework 7 - Binary tree.pdb (Full PDB)

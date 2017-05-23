@@ -1,0 +1,2 @@
+file 2 is 1 line longer
+this is the added line

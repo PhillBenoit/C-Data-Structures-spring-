@@ -1,0 +1,7 @@
+﻿  fileCompare.cpp
+  269 - Homework 13 - file compare.cpp
+c:\users\user\documents\visual studio 2015\projects\269 - homework 13 - file compare\269 - homework 13 - file compare\269 - homework 13 - file compare.cpp(10): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: see declaration of 'setbuf'
+  Generating Code...
+  269 - Homework 13 - file compare.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\269 - Homework 13 - file compare\Debug\269 - Homework 13 - file compare.exe
+  269 - Homework 13 - file compare.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\269 - Homework 13 - file compare\Debug\269 - Homework 13 - file compare.pdb (Full PDB)

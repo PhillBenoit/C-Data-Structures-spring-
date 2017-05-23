@@ -1,0 +1,3 @@
+test3_2.txt does not exist.
+test3_output.txt is a blank file.
+this test tests the file open failure.

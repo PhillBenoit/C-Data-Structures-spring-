@@ -1,0 +1,10 @@
+﻿  269 - Homework 5 - Stacks and Queues.cpp
+c:\users\user\documents\visual studio 2015\projects\269 - homework 5 - stacks and queues\269 - homework 5 - stacks and queues\269 - homework 5 - stacks and queues.cpp(50): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: see declaration of 'setbuf'
+  Generating Code...
+  Compiling...
+  Util.cpp
+  Ex1.cpp
+  Generating Code...
+  269 - Homework 5 - Stacks and Queues.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\269 - Homework 5 - Stacks and Queues\Debug\269 - Homework 5 - Stacks and Queues.exe
+  269 - Homework 5 - Stacks and Queues.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\269 - Homework 5 - Stacks and Queues\Debug\269 - Homework 5 - Stacks and Queues.pdb (Full PDB)
